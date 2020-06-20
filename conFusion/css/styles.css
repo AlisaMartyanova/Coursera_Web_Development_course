@@ -52,3 +52,15 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#reserveModal .modal-header, #loginModal .modal-header {
+  background: #512DA8; }
+
+#reserveModal .modal-body, #loginModal .modal-body {
+  background: #D1C4E9; }
+
+#reserveModal .modal-title, #loginModal .modal-title {
+  color: floralwhite; }
+
+#reserveModal .close, #loginModal .close {
+  color: floralwhite; }
